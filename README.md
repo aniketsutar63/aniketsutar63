@@ -31,11 +31,11 @@ public class AniketSutar {
 
 ---
 
-## 🚀 Live Projects
+## 🛠️ Projects
 
-| 🔗 Project | 📝 Description | 🛠 Tech Stack | 🌐 Live |
+| 🔗 Project | 📝 Description | 🛠 Tech Stack | 🔗 Links |
 |---|---|---|---|
-| **Grade Track — Student Management System** | Full-stack web app with Spring Boot REST backend + React.js frontend. JWT-based role auth for Admin & Student roles. | Java · Spring Boot · React.js · MySQL · JWT | [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://zeal-ms-std.netlify.app/) |
+| **Zeal Student Management System** | Full-stack student management web app with Spring Boot REST backend + React.js frontend. JWT-based role auth for Admin & Student roles. | Java · Spring Boot · React.js · MySQL · JWT | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketsutar63/zeal_-Student_Management_System) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://zeal-ms-std.netlify.app/) |
 | **Foodie Hub — Food Ordering Backend** | Scalable REST API for a food ordering platform with auth, menu & order management, input validation. | Java · Spring Boot · MySQL · Spring Security · JUnit | 🔒 Private |
 | **Smart Bus — Bus Reservation System** | Console-based reservation system using Core Java, OOP & Collections for seat allocation & booking. | Java · OOP · Collections | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketsutar63/Project-s) |
 
