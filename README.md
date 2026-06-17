@@ -27,7 +27,7 @@ public class AniketSutar {
 
     boolean openToWork = true; // Always!
 }
-` ` `
+```
 
 ---
 
@@ -38,8 +38,6 @@ public class AniketSutar {
 | **Zeal Student Management System** | Full-stack student management web app with Spring Boot REST backend + React.js frontend. JWT-based role auth for Admin & Student roles. | Java · Spring Boot · React.js · MySQL · JWT | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketsutar63/zeal_-Student_Management_System) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://zeal-ms-std.netlify.app/) |
 | **Foodie Hub — Food Ordering Backend** | Scalable REST API for a food ordering platform with auth, menu & order management, input validation. | Java · Spring Boot · MySQL · Spring Security · JUnit | 🔒 Private |
 | **Smart Bus — Bus Reservation System** | Console-based reservation system using Core Java, OOP & Collections for seat allocation & booking. | Java · OOP · Collections | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketsutar63/Project-s) |
-| **StudentGrader** | Fully responsive student grading web app for educators to manage results, calculate grades automatically, and track academic performance. | React.js · JavaScript · CSS3 · Git · Vercel | [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://student-grader-nine.vercel.app/) |
-| **AVT Global Solutions — Business Website** | Responsive corporate website for a Pune-based industrial supply company with product showcase, EmailJS contact form, and Google Maps integration. | HTML5 · CSS3 · JavaScript · EmailJS · Netlify | [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://avt-global-solution.netlify.app/) |
 
 ---
 
@@ -129,11 +127,3 @@ public class AniketSutar {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9972a,100:7b1c2e&height=100&section=footer" width="100%"/>
 
 </div>
-```
-
-The two new rows added to the projects table:
-
-- **StudentGrader** — described as a responsive grading app with auto grade calculation, linked to its Vercel live demo with a black Vercel-styled badge.
-- **AVT Global Solutions** — described as a corporate business website with EmailJS and Maps integration, linked to its Netlify live demo with the teal Netlify badge (matching your existing style).
-
-Both fit cleanly into your existing table format. Just copy-paste this into your `README.md` and you're good to go! 🚀
