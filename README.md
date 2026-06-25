@@ -103,8 +103,8 @@ public class AniketSutar {
 
 ## 💼 Experience
 
-**☕ Java Full Stack Developer Intern** — *Unique System Skills India Pvt. Ltd., Pune* `Aug 2025 – Present`
-> REST APIs · Spring Boot · MySQL · JUnit · Agile/Scrum
+**☕ Freelance Full Stack Java Developer** — *Self-Employed* `Aug 2025 – Present`
+> Full Stack Development · Spring Boot · React.js · Project Management
 
 **Graduate Engineer Trainee** — *LvlAlpha Private Limited, Pune* `Jan 2024 – Jul 2025`
 > Firmware Dev · Microcontrollers · Hardware Debugging
