@@ -106,7 +106,7 @@ public class AniketSutar {
 **☕ Java Full Stack Developer Intern** — *Unique System Skills India Pvt. Ltd., Pune* `Aug 2025 – Present`
 > REST APIs · Spring Boot · MySQL · JUnit · Agile/Scrum
 
-**🔌 Embedded System Design Associate** — *LvlAlpha Private Limited, Pune* `Jan 2024 – Jul 2025`
+**Graduate Engineer Trainee** — *LvlAlpha Private Limited, Pune* `Jan 2024 – Jul 2025`
 > Firmware Dev · Microcontrollers · Hardware Debugging
 
 ---
