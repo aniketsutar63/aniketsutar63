@@ -39,6 +39,7 @@ public class AniketSutar {
 | **Smart Bus — Bus Reservation System** | Console-based reservation system using Core Java, OOP & Collections for seat allocation & booking. | Java · OOP · Collections | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketsutar63/Project-s) |
 | **StudentGrader** | Fully responsive student grading web app for educators to manage results, calculate grades automatically, and track academic performance. | React.js · JavaScript · CSS3 · Git · Vercel | [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://graderfinal-main-new.vercel.app/) |
 | **AVT Global Solutions — Business Website** | Responsive corporate website for a Pune-based industrial supply company with product showcase, EmailJS contact form, and Google Maps integration. | HTML5 · CSS3 · JavaScript · EmailJS · Netlify | [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://avt-global-solution.vercel.app/) |
+| **SwiftYatra — Bus Booking Platform** | FlixBus-inspired modern bus booking web app with a full landing page, 5-step booking flow, seat picker, passenger management & booking confirmation. | HTML5 · CSS3 · JavaScript · Vercel | [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://swiftyatra.vercel.app/) |
 
 ---
 
