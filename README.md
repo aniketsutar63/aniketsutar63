@@ -41,6 +41,7 @@ public class AniketSutar {
 | **AVT Global Solutions — Business Website** | Responsive corporate website for a Pune-based industrial supply company with product showcase, EmailJS contact form, and Google Maps integration. | HTML5 · CSS3 · JavaScript · EmailJS · Netlify | [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://avt-global-solution.vercel.app/) |
 | **SwiftYatra — Bus Booking Platform** | FlixBus-inspired modern bus booking web app with a full landing page, 5-step booking flow, seat picker, passenger management & booking confirmation. | HTML5 · CSS3 · JavaScript · Vercel | [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://swiftyatra.vercel.app/) |
 
+
 ---
 
 ## 🌐 Portfolio & Links
